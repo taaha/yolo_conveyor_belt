@@ -1,0 +1,5 @@
+names:
+- chocolate
+nc: 1
+train: /home/darth/MLAI-projects/yolo_conveyor/yolo_conveyor_belt/dataset/train_whole/images
+val: /home/darth/MLAI-projects/yolo_conveyor/yolo_conveyor_belt/dataset/valid/images
