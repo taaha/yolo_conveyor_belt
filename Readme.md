@@ -12,3 +12,7 @@ https://medium.com/red-buffer/apply-data-augmentation-on-yolov5-yolov8-dataset-9
 3. yolov8_training.ipynb - train yolov8(small) on custom data
 
 4. byte_track.ipynb - track and count items using trained model alongwith bytetrack and supervision.
+
+
+### Result
+https://www.youtube.com/watch?v=lxNDcPOWDG0
